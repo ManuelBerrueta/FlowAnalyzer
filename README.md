@@ -18,8 +18,7 @@ To get started please see `SETUP.md` as for a tiny bit of setup to get everythin
 ### OpenID Connect (OIDC)
 OAuth 2.0 was designed for authorization. OpenID Connect (OIDC) extends the OAuth 2.0 functionality to provide authentication. To find out more about OIDC, check the `/OpenID_Connect-OIDC` directory.
 
+---     
 ### JSON Web Tokens aka JWT(s) 
 If we are talking about OAuth and modern authentication we can't skip talking about JWTs, as these are the type of tokens we will be working with.
 For further insights, please see `/JWT/JWT.md`.
-
-
