@@ -1,0 +1,3 @@
+[submodule "BST"]
+	path = BST
+	url = https://github.com/ManuelBerrueta/BST
